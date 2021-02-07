@@ -1,0 +1,31 @@
+/* body {
+	height: 670px;
+	width: 840px;
+}
+div.inset-shadow {
+	width: 800px;
+}
+#masthead {
+    height: 40px;
+    width: 800px;
+} */
+
+body {
+	background-image: url(../imgs/star.jpg);
+}
+
+p, figcaption, footer {
+	color: #b7c2ce
+}
+mark {
+	color: #000000;
+}
+
+#hello, h4, a:visited, a:link {
+	text-decoration: none;
+	color: #f8d271;
+}
+
+a:hover {
+	color: #8b939c;
+}
